@@ -1,0 +1,54 @@
+# Data files
+Data/AirQualityData/*.csv
+Data/AirQualityData/*.csv
+Data/CPI_Historic_Values_Zindi_Apr_23.csv
+Data/Naamsa_Vehicle_Sales.csv
+predictions.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+cpi_env/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+workflow.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Output files
+*.png
+*.csv
